@@ -9,6 +9,7 @@ class Viewer extends Component {
  }
 }
 
+<<<<<<< HEAD
 A1
 
 A2
